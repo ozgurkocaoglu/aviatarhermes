@@ -1,9 +1,11 @@
-[
-  {
-    "registration": "TCSPK",
-    "content": "OFP 1 IS VALID FOR XQ 793 FRA-ESB",
-    "timestamp": "2025/09/25 06:41:48",
-    "id": "1"
-  }
-  
-]
+{
+  "records": [
+    {
+      "registration": "TC-JFK",
+      "content": "First test entry",
+      "timestamp": "2025-09-24T10:00:00Z",
+      "id": "1"
+    }
+  ]
+}
+
