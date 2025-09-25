@@ -1,7 +1,7 @@
 {
   "name": "hermes",
   "version": "1.0.0",
-  "description": "Fake JSON REST API for aviatarhermes",
+  "description": "Fake JSON REST API for hermes",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
